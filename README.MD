@@ -43,7 +43,7 @@
 > A scalable application with authentication and real-time features
 
 * ⚙️ Tech: Next.js, Appwrite, TypeScript
-* 🌐 Live: https://your-demo-link.com
+* 🌐 Live: https://comptaflow.com
 * 📂 Repo: https://github.com/comptaflow/project-name
 
 ### 🔹 Full-Stack Platform
@@ -51,7 +51,7 @@
 > A complete platform with API and frontend dashboard
 
 * ⚙️ Tech: React, Node.js, Express
-* 🌐 Live: https://your-demo-link.com
+* 🌐 Live: https://comptaflow.com
 * 📂 Repo: https://github.com/comptaflow/project-name
 
 ---
@@ -72,9 +72,9 @@
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 🌐 Portfolio: https://your-portfolio.com
-* 📧 Email: [your@email.com](mailto:your@email.com)
+* 💼 LinkedIn: https://linkedin.com/in/comptaflow
+* 🌐 Portfolio: https://comptaflow.com
+* 📧 Email: [comptaflow@email.com](mailto:comptaflow@email.com)
 
 ---
 
